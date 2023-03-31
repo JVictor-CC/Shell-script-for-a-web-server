@@ -18,7 +18,7 @@ To use this script, simply run the following command in your terminal:
 
 Replace <repository_url> with the URL of the repository you want to deploy. If the repository is hosted on GitHub, the URL should be in the following format:
 
-> bash
+> URL
 
     https://github.com/<username>/<repository>/archive/<branch>.zip
 
