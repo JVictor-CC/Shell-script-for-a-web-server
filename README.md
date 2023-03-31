@@ -14,7 +14,7 @@ To use this script, simply run the following command in your terminal:
 
 > bash
 
-    $ sudo ./apache-server.sh -r <repository_url> [-b <branch_name>]
+    $ sudo ./apache-server.sh -r <repository_url>
 
 Replace <repository_url> with the URL of the repository you want to deploy. If the repository is hosted on GitHub, the URL should be in the following format:
 
